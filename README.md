@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👋 Hello World! I'm [Your Name], a passionate MERN Developer with a knack for crafting seamless web experiences. 🚀
+👋 Hello World! I'm Ashutosh Verma, a passionate MERN Developer with a knack for crafting seamless web experiences. 🚀
 
 👨‍💻 As a Full Stack Web Developer, I honed my skills through a rigorous Full Stack Web Development Course at Masai, diving deep into the intricacies of the MERN Stack. From React and Redux for dynamic front-end experiences to Node.js, Express, and MongoDB for robust back-end solutions – my tech toolkit is equipped to tackle diverse challenges.
 
