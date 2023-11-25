@@ -12,7 +12,7 @@
 
 💡 Innovation excites me, and I love collaborating with teams to turn ideas into reality through technology. Let's connect and explore the limitless possibilities of the digital realm. Together, we can shape the future, one line of code at a time. 🌟
 
-📫 Reach out, and let's embark on this coding journey together! 🔗 [![portfolio](https://github.com/1ashutoshverma)
+📫 Reach out, and let's embark on this coding journey together!
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://1ashutoshverma.github.io/)
@@ -22,7 +22,12 @@
 ## 🛠 Skills
 
 - React
+- Redux
+- JAVA
+- MongoDB
+- Node.js
+- Express.js
+- Mongoose
 - JavaScript
 - HTML
 - CSS
-- JAVA
