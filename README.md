@@ -31,3 +31,5 @@
 - JavaScript
 - HTML
 - CSS
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=github_dark" />
