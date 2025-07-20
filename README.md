@@ -22,7 +22,7 @@
 🏆 Hackathon Winner – “Bring AI to Hyperface”  
 🎖️ Hyperface Heroes Award – Mentorship & Learning
 
-💡 Let's build innovative solutions together — one line of code at a time.
+💡 Let's build innovative solutions together.
 
 📫 Reach me at: `1ashutoshverma@gmail.com`  
 
