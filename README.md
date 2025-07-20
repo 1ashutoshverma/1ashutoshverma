@@ -2,27 +2,35 @@
 
 ## 🚀 About Me
 
-👋 Hello World! I'm Ashutosh Verma, a passionate MERN Developer with a knack for crafting seamless web experiences. 🚀
+👋 Hi, I'm Ashutosh Verma — a Full Stack Web Developer (MERN) and Application Engineer at Hyperface Technologies.
 
-👨‍💻 As a Full Stack Web Developer, I honed my skills through a rigorous Full Stack Web Development Course at Masai, diving deep into the intricacies of the MERN Stack. From React and Redux for dynamic front-end experiences to Node.js, Express, and MongoDB for robust back-end solutions – my tech toolkit is equipped to tackle diverse challenges.
+🚀 I specialize in building scalable, production-grade fintech applications and dynamic web platforms. I’m passionate about clean architecture, efficient APIs, and intuitive UIs.
 
-🛠️ My arsenal includes React, Redux, JAVA, Node, Express, Mongoose, MongoDB, HTML, CSS, JavaScript, and Git. I thrive on creating efficient, elegant code and have a solid foundation in Data Structures and Algorithms, having conquered 650+ DSA problems.
+💼 At Hyperface, I lead a team of developers, driving feature development across 5 live fintech projects used by 3M+ users. I collaborate with QA, DevOps, and product teams to deliver impactful solutions.
 
-🌐 I'm not just a coder; I'm a problem solver. Whether it's architecting the front-end or optimizing the back-end, I'm dedicated to building innovative solutions that stand the test of time.
+🛠️ My tech stack includes:
+- **Frontend**: React.js, Next.js, Redux, HTML, CSS, TypeScript
+- **Backend**: Node.js, Express, MongoDB, MySQL, WebSocket
+- **DevOps/Infra**: Docker, AWS (EC2, S3, Amplify), Kafka, CI/CD
+- **Other**: Java, GraphQL, Redis, WordPress, Python (basic), Kotlin
 
-💡 Innovation excites me, and I love collaborating with teams to turn ideas into reality through technology. Let's connect and explore the limitless possibilities of the digital realm. Together, we can shape the future, one line of code at a time. 🌟
+📈 I’ve also solved 650+ DSA problems and built notable projects like:
+- 🪑 [Wood Fans](https://wood-fans.vercel.app/): Full MERN e-commerce with Razorpay
+- 💬 [Chat App](https://own-chat-app.vercel.app/): Real-time chat with WebSocket
+- 🛍️ [Bewakoof Clone](https://bewakoof-team.netlify.app/): Trendy e-commerce frontend
 
-📫 Reach out, and let's embark on this coding journey together!
+🏆 Hackathon Winner – “Bring AI to Hyperface”  
+🎖️ Hyperface Heroes Award – Mentorship & Learning
+
+💡 Let's build innovative solutions together — one line of code at a time.
+
+📫 Reach me at: `1ashutoshverma@gmail.com`  
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://1ashutoshverma.github.io/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1ashutoshverma/)
 
-## 🛠 Skills
-
-- Proficient: JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Redis, Redux, HTML5, CSS3, Git, RESTful APIs, TypeScript, WebSocket
-- Intermediate: AWS (EC2, S3, Amplify etc.), Kafka, MQTT, FastAPI, Python, Docker, CI/CD, Open AI
-- Basic: Java, GraphQL, Nginx, WordPress
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=github_dark" />
