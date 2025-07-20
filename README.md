@@ -14,7 +14,7 @@
 - **DevOps/Infra**: Docker, AWS (EC2, S3, Amplify), Kafka, CI/CD
 - **Other**: Java, GraphQL, Redis, WordPress, Python (basic), Kotlin
 
-📈 I’ve also solved 650+ DSA problems and built notable projects like:
+📈 I’ve also solved 1000+ DSA problems and built notable projects like:
 - 🪑 [Wood Fans](https://wood-fans.vercel.app/): Full MERN e-commerce with Razorpay
 - 💬 [Chat App](https://own-chat-app.vercel.app/): Real-time chat with WebSocket
 - 🛍️ [Bewakoof Clone](https://bewakoof-team.netlify.app/): Trendy e-commerce frontend
