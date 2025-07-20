@@ -21,9 +21,8 @@
 
 ## 🛠 Skills
 
- Proficient: JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Redis, Redux,
- HTML5, CSS3, Git, RESTful APIs, TypeScript, WebSocket
- Intermediate: AWS (EC2, S3, Amplify etc.), Kafka, MQTT, FastAPI, Python, Docker, CI/CD, Open AI
- Basic: Java, GraphQL, Nginx, WordPress
+- Proficient: JavaScript (ES6+), React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Redis, Redux, HTML5, CSS3, Git, RESTful APIs, TypeScript, WebSocket
+- Intermediate: AWS (EC2, S3, Amplify etc.), Kafka, MQTT, FastAPI, Python, Docker, CI/CD, Open AI
+- Basic: Java, GraphQL, Nginx, WordPress
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=github_dark" />
