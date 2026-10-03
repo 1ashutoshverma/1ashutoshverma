@@ -1,36 +1,44 @@
-# Hi, I'm Ashutosh Verma! 👋
+# Ashutosh Verma
 
-## 🚀 About Me
+### Backend engineering · FinTech systems · Full-stack development
 
-👋 Hi, I'm Ashutosh Verma — a Full Stack Web Developer (MERN) and Application Engineer at Hyperface Technologies.
+I build backend services with **Java, Spring Boot and Node.js**, working across APIs, authentication, session management, partner integrations and banking workflows.
 
-🚀 I specialize in building scalable, production-grade fintech applications and dynamic web platforms. I’m passionate about clean architecture, efficient APIs, and intuitive UIs.
+My work includes fintech customer journeys, file-processing systems, scheduled bank-file delivery and internal monitoring tools. I also build with **React and Next.js**, connecting backend services to usable customer and operational interfaces.
 
-💼 At Hyperface, I lead a team of developers, driving feature development across 5 live fintech projects used by 3M+ users. I collaborate with QA, DevOps, and product teams to deliver impactful solutions.
+## Engineering focus
 
-🛠️ My tech stack includes:
-- **Frontend**: React.js, Next.js, Redux, HTML, CSS, TypeScript
-- **Backend**: Node.js, Express, MongoDB, MySQL, WebSocket
-- **DevOps/Infra**: Docker, AWS (EC2, S3, Amplify), Kafka, CI/CD
-- **Other**: Java, GraphQL, Redis, WordPress, Python (basic), Kotlin
+- **APIs and integrations:** onboarding, authentication, reusable session-management logic and downstream banking integrations.
+- **Data and processing:** database migrations, tenant-specific caching, scheduled jobs and file-generation workflows.
+- **Reliability and delivery:** request validation, tenant isolation, failure alerts, production debugging, code reviews and release coordination.
+- **Full-stack delivery:** React/Next.js applications, internal monitoring interfaces and a configurable application Playground.
 
-📈 I’ve also solved 1000+ DSA problems and built notable projects like:
-- 🪑 [Wood Fans](https://wood-fans.vercel.app/): Full MERN e-commerce with Razorpay
-- 💬 [Chat App](https://own-chat-app.vercel.app/): Real-time chat with WebSocket
-- 🛍️ [Bewakoof Clone](https://bewakoof-team.netlify.app/): Trendy e-commerce frontend
+## Technologies I work with
 
-🏆 Hackathon Winner – “Bring AI to Hyperface”  
-🎖️ Hyperface Heroes Award – Mentorship & Learning
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Node.js, Express.js, REST APIs |
+| Data and messaging | MySQL, MongoDB, Redis, Kafka |
+| Cloud and delivery | AWS, Docker, Kubernetes, GitHub Actions, Git |
+| Full stack | React, Next.js, JavaScript, TypeScript, Redux |
 
-💡 Let's build innovative solutions together.
+## AI in my workflow
 
-📫 Reach me at: `1ashutoshverma@gmail.com`  
+I use **Claude Code and OpenAI Codex** for AI-assisted development, alongside code review, testing and debugging. I've also built **MCP-based application-log search tooling** to support debugging workflows.
 
-## 🔗 Links
+## Public projects
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://1ashutoshverma.github.io/)
+| Project | What the code covers |
+| --- | --- |
+| [Flag Pilot](https://github.com/1ashutoshverma/flag-pilot) | Java/Spring Boot backend prototype with user administration, roles and permissions, Spring Security and MySQL/JPA. Work in progress. |
+| [Chat App — Backend](https://github.com/1ashutoshverma/chat-app-backend) | Node.js/Express and Socket.IO chat service with message persistence, rooms and online/offline presence. Includes Docker configuration. |
+| [Wood Fans — Backend](https://github.com/1ashutoshverma/wood-fans-backend) | Node.js/Express e-commerce APIs for users, products, carts, and admin/seller workflows, backed by MongoDB. |
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1ashutoshverma/)
+## Recognition
 
+- **Hyperface Hackfest 2024:** First place with Team Proximity.
+- **Hyperface Heroes Award:** Learning and Mentoring.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=github_dark" />
+---
+
+[Portfolio](https://1ashutoshverma.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/1ashutoshverma/) · [Email](mailto:1ashutoshverma@gmail.com)
