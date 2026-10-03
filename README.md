@@ -26,14 +26,6 @@ My work includes fintech customer journeys, file-processing systems, scheduled b
 
 I use **Claude Code and OpenAI Codex** for AI-assisted development, alongside code review, testing and debugging. I've also built **MCP-based application-log search tooling** to support debugging workflows.
 
-## Public projects
-
-| Project | What the code covers |
-| --- | --- |
-| [Flag Pilot](https://github.com/1ashutoshverma/flag-pilot) | Java/Spring Boot backend prototype with user administration, roles and permissions, Spring Security and MySQL/JPA. Work in progress. |
-| [Chat App — Backend](https://github.com/1ashutoshverma/chat-app-backend) | Node.js/Express and Socket.IO chat service with message persistence, rooms and online/offline presence. Includes Docker configuration. |
-| [Wood Fans — Backend](https://github.com/1ashutoshverma/wood-fans-backend) | Node.js/Express e-commerce APIs for users, products, carts, and admin/seller workflows, backed by MongoDB. |
-
 ## Recognition
 
 - **Hyperface Hackfest 2024:** First place with Team Proximity.
