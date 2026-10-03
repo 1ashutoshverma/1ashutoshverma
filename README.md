@@ -1,6 +1,6 @@
 # Ashutosh Verma
 
-### Backend engineering · FinTech systems · Full-stack development
+### Backend engineering · FinTech systems · API integrations
 
 I build backend services with **Java, Spring Boot and Node.js**, working across APIs, authentication, session management, partner integrations and banking workflows.
 
@@ -11,7 +11,7 @@ My work includes fintech customer journeys, file-processing systems, scheduled b
 - **APIs and integrations:** onboarding, authentication, reusable session-management logic and downstream banking integrations.
 - **Data and processing:** database migrations, tenant-specific caching, scheduled jobs and file-generation workflows.
 - **Reliability and delivery:** request validation, tenant isolation, failure alerts, production debugging, code reviews and release coordination.
-- **Full-stack delivery:** React/Next.js applications, internal monitoring interfaces and a configurable application Playground.
+- **Supporting web development:** React/Next.js applications, internal monitoring interfaces and a configurable application Playground.
 
 ## Technologies I work with
 
@@ -20,7 +20,7 @@ My work includes fintech customer journeys, file-processing systems, scheduled b
 | Backend | Java, Spring Boot, Node.js, Express.js, REST APIs |
 | Data and messaging | MySQL, MongoDB, Redis, Kafka |
 | Cloud and delivery | AWS, Docker, Kubernetes, GitHub Actions, Git |
-| Full stack | React, Next.js, JavaScript, TypeScript, Redux |
+| Supporting frontend | React, Next.js, JavaScript, TypeScript, Redux |
 
 ## AI in my workflow
 
